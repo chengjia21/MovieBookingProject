@@ -6,6 +6,7 @@ Admins can setup and view movies and their corresponding seating plans, while Bu
 
 
 Executable .jar file located in MovieBookingProject/Movie_Booking/
+
 Source Code located in MovieBookingProject/Movie_Booking/src/
 
 
